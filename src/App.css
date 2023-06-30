@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.themeselector{
+  flex-direction:row;
+  color: brown;
+  background-color: black;
+}
